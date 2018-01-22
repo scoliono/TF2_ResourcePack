@@ -1,4 +1,4 @@
 # TF2_ResourcePack (GUI)
 TF2 Minecraft Resource Pack
 
-Here I'll be editing the textures MC uses as GUI and HUD
+Resource pack developed for the Minecraft TF2 community server, by the TF2 Community
